@@ -1,0 +1,27 @@
+body{
+    background-color:cornflowerblue;
+}
+table {
+    position:fixed;
+    top: 30%;
+    left: 60%;
+    width: 200px;
+    height: 300px;
+    margin-top: -9em;
+    margin-left: -17em;
+    background-color  : black;
+}
+.display-box
+{
+    position:fixed;
+    top: 21%;
+    left: 57%;
+    width: 200px;
+    height: 50px;
+    margin-top: -9em;
+    margin-left: -17em;
+}
+.button
+{
+    padding: 16px;
+}
